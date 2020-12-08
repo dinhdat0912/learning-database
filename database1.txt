@@ -1,0 +1,13 @@
+What is Database?
+Database is the thing to store data. It works in the backend to store information that the user enters while using the website in the front end.
+What is Relational Database?
+The concept here is the connection between entity type and attribute type.
+For example: an entity could be a thing and attribute could have the information about that thing.
+User: could be an entity.
+name, username,password could all be attributes to store data about that user.
+DBMS and RDBMS are literally the same thing.
+Intro to SQL
+SQL is Structured Query Language
+Define: Define Data Language
+Manipulate:Manipulate Data Language
+CREATE, UPDATE, JOIN 2 tables.
